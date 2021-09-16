@@ -1,6 +1,6 @@
-# Airline Alliance Filterlist
+# Airline Alliance
 
-Single page application built with React with JSON populated Airline logo, name, alliance partner, number, and URL.
+Single page application built with React that filters cards by alliance partner name. Airline logo, name, alliance partner, number, and URL data populated from JSON URL.
 
 Users can filter search for 3 different alliances and hover over the airline card to get more details.
 
