@@ -1,0 +1,13 @@
+.airlineName,
+.airlineNameHover {
+  font-weight: bold;
+  color: #192024;
+}
+
+.airlineName {
+  font-size: 16px;
+}
+
+.airlineNameHover {
+  font-size: 14px;
+}
